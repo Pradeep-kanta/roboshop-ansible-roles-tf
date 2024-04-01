@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.pradeepshop.online  # submit your host
 REDIS_HOST: redis-dev.pradeepshop.online 
 MYSQL_HOST: mysql-dev.pradeepshop.online 
 RABBITMQ_HOST: rabbitmq-dev.pradeepshop.online 
-CATALOGUE_HOST: catalogue-dev.pradeepshop.online 
-USER_HOST: user-dev.pradeepshop.online 
-CART_HOST: cart-dev.pradeepshop.online 
-SHIPPING_HOST: shipping-dev.pradeepshop.online 
-PAYMENT_HOST: payment-dev.pradeepshop.online 
-DISPATCH_HOST: dispatch-dev.pradeepshop.online 
+CATALOGUE_HOST: catalogue.app-dev.pradeepshop.online 
+USER_HOST: user.app-dev.pradeepshop.online 
+CART_HOST: cart.app-dev.pradeepshop.online 
+SHIPPING_HOST: shipping.app-dev.pradeepshop.online 
+PAYMENT_HOST: payment.app-dev.pradeepshop.online 
+DISPATCH_HOST: dispatch.app-dev.pradeepshop.online 
